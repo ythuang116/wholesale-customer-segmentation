@@ -1,10 +1,10 @@
-# 🧠 Wholesale Customer Segmentation - Exploratory Clustering Analysis
+# Wholesale Customer Segmentation - Exploratory Clustering Analysis
 
 This project explores customer segmentation for a wholesale distribution company based on their annual product spending. 
 
 ---
 
-## 📦 Dataset Overview
+## Dataset Overview
 
 The dataset contains **440 wholesale clients** in Portugal and their **annual spending** (standardized monetary units) across 6 product categories. It also includes metadata on **sales channel** and **region**.
 
@@ -23,7 +23,7 @@ Dataset Source: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml
 
 ---
 
-## 🧪 Analysis Pipeline
+## Analysis Pipeline
 
 1. **Preprocessing**:  
    - Filtered numerical spending columns for clustering  
@@ -51,7 +51,7 @@ Dataset Source: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml
 
 ---
 
-## 🧭 Segment Insights & Recommendations
+## Segment Insights & Recommendations
 
 ### **0. Daily Essentials Retailers**
 - **Traits**: High spending on Milk and Grocery; low Fresh/Frozen.
